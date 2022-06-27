@@ -3,7 +3,7 @@
     <div class="box">
       <p class="me-5">Developed by Leo Aceituno</p>
 
-      <a href="https://github.com/leonardoaceituno/Project-RickAndMorty">
+      <a href="https://github.com/leonardoaceituno/Project-RickAndMorty" target="_blank">
         <v-icon color="white">mdi-github</v-icon>
       </a>
     </div>

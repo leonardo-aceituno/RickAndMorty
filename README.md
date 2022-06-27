@@ -4,13 +4,13 @@
 ## Herramientas 
 *Este proyecto fue desarrollado con las siguientes herramientas:*
 
-**Vue.js**       : Framework Javascript para crear interfaces de usuario.
-**Vue CLI**      : Librería que permite usar comandos en la consola del ordenador para automatizar ciertas tareas.
-**Vue-router**   : Biblioteca de enrutamiento.
-**Axios**        : Librería que a modo de cliente nos permite hacer peticiones HTTP a un servidor,
-**Vuetify**      : Es un framework progresivo de componentes para Vue.js sobre Material Design.
-**HTML5 y CSS3** : Como lenguajes de etiquetas y estilos.
-**Firebase**     : Usado para hacer deploy y como hosting de la aplicación.
+- **Vue.js**       : Framework Javascript para crear interfaces de usuario.
+- **Vue CLI**      : Librería que permite usar comandos en la consola del ordenador para automatizar ciertas tareas.
+- **Vue-router**   : Biblioteca de enrutamiento.
+- **Axios**        : Librería que a modo de cliente nos permite hacer peticiones HTTP a un servidor,
+- **Vuetify**      : Es un framework progresivo de componentes para Vue.js sobre Material Design.
+- **HTML5 y CSS3** : Como lenguajes de etiquetas y estilos.
+- **Firebase**     : Usado para hacer deploy y como hosting de la aplicación.
 
 
 ## Project setup

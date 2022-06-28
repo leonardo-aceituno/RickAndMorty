@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "project-rick-and-morty",
     "public": "dist",
     "ignore": [
       "firebase.json",

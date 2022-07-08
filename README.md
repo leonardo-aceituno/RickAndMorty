@@ -1,5 +1,5 @@
 # Project-RickandMorty
-*Proyecto que permite buscar desde una API los personajes de la serie animada Rick and Morty.*
+*Aplicación que permite buscar desde una API los personajes de la serie animada Rick and Morty.*
 
 *Visita el proyecto en el siguiente enlace:*
  [https://project-rick-and-morty.web.app/](https://project-rick-and-morty.web.app/)
